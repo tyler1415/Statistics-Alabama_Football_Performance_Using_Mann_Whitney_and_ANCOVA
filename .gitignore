@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Secrets
+.env
+*.env
+
+# Generated output
+figures/
+
+# Excel / Office lock and temp files
+~$*
+*.tmp
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
